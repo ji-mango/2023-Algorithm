@@ -1,8 +1,7 @@
 '''
 '알파벳'
 '''
-#24.02.13 16:41 ~
-from collections import defaultdict
+#24.02.13 16:41 ~ 17:47
 import sys
 input = sys.stdin.readline
 
