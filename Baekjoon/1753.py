@@ -1,7 +1,7 @@
 '''
 '최단경로'
 '''
-# 24.02.15 16:28 ~
+# 24.02.15 16:28 ~ 17:40
 import heapq
 import sys
 input = sys.stdin.readline
