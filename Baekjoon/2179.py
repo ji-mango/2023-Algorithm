@@ -1,7 +1,7 @@
 '''
 '비슷한 단어'
 '''
-# 24.02.22 14:59 ~
+# 24.02.22 14:59 ~ 17:00
 import sys
 input = sys.stdin.readline
 
